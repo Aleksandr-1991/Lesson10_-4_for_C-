@@ -1,0 +1,15 @@
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\bin\Debug\net6.0\Task3_FIBONACCI.exe
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\bin\Debug\net6.0\Task3_FIBONACCI.deps.json
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\bin\Debug\net6.0\Task3_FIBONACCI.runtimeconfig.json
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\bin\Debug\net6.0\Task3_FIBONACCI.dll
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\bin\Debug\net6.0\Task3_FIBONACCI.pdb
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.csproj.AssemblyReference.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.AssemblyInfoInputs.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.AssemblyInfo.cs
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.csproj.CoreCompileInputs.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.dll
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\refint\Task3_FIBONACCI.dll
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.pdb
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\Task3_FIBONACCI.genruntimeconfig.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task3_FIBONACCI\obj\Debug\net6.0\ref\Task3_FIBONACCI.dll

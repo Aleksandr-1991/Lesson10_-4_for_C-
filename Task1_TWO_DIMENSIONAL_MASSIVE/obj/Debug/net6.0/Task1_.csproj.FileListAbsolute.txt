@@ -1,0 +1,15 @@
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\bin\Debug\net6.0\Task1_.exe
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\bin\Debug\net6.0\Task1_.deps.json
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\bin\Debug\net6.0\Task1_.runtimeconfig.json
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\bin\Debug\net6.0\Task1_.dll
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\bin\Debug\net6.0\Task1_.pdb
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.csproj.AssemblyReference.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.AssemblyInfoInputs.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.AssemblyInfo.cs
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.csproj.CoreCompileInputs.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.dll
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\refint\Task1_.dll
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.pdb
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\Task1_.genruntimeconfig.cache
+C:\Обуч!\Lesson10_(4_for_C#)\Task1_\obj\Debug\net6.0\ref\Task1_.dll
